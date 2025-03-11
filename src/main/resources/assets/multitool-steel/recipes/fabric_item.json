@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AF",
+    " SG",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:Stick"
+    },
+    "F": {
+      "item": "minecraft:wodden_sword"
+    },
+
+    "A": {
+      "item": "minecraft:wodden_axe"
+    },
+    "G": {
+      "item": "minecraft:wodden_shovel"
+    }
+  },
+  "result": {
+    "item": "multitool-steel:wooden_multitool",
+    "count": 1
+  }
+}
+
