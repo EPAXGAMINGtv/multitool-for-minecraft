@@ -7,17 +7,17 @@
   ],
   "key": {
     "S": {
-      "tag": "minecraft:Stick"
+      "tag": "minecraft:stick"
     },
     "F": {
-      "item": "minecraft:wodden_sword"
+      "item": "minecraft:wooden_sword"
     },
 
     "A": {
-      "item": "minecraft:wodden_axe"
+      "item": "minecraft:wooden_axe"
     },
     "G": {
-      "item": "minecraft:wodden_shovel"
+      "item": "minecraft:wooden_shovel"
     }
   },
   "result": {
