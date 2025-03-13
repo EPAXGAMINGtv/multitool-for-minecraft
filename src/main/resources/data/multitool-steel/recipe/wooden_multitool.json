@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "S": "minecraft:wooden_sword",
+    "X": "minecraft:wooden_axe",
+    "V": "minecraft:wooden_shovel"
+  },
+  "pattern": [
+    " XS",
+    " #V",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "multitool-steel:wooden_multitool"
+  }
+}
